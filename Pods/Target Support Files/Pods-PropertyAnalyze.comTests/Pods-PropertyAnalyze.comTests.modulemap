@@ -1,0 +1,6 @@
+framework module Pods_PropertyAnalyze_comTests {
+  umbrella header "Pods-PropertyAnalyze.comTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
